@@ -1,6 +1,6 @@
 {
-  "name": "l10n_js",
-  "main": "l10n_js",
+  "name": "l10n",
+  "main": "l10n",
   "homepage": "http://purl.eligrey.com/l10n.js",
   "description": "Passive localization JavaScript library based on eligrey's great work but with an Ember App Kit friendly bower name.",
   "keywords": [
